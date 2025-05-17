@@ -28,7 +28,7 @@ To set up the project locally, follow these steps:
 
 1. *Clone the repository*:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/AkshithReddy12/crisis-management-and-relief-platform.git
    cd crisis-relief-management-system
 
 
